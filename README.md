@@ -13,7 +13,6 @@
 **A production-ready REST API built with Python & FastAPI.**
 JWT Authentication · Role-Based Access Control · CRUD Operations · External API Integration · Automated Tests
 
-[🚀 Live Demo](#-live-demo) • [📦 Installation](#-installation--setup) • [🧪 API Testing](#-api-testing-with-swagger) • [📁 Project Structure](#-project-structure) • [🤝 Contributing](#-contributing)
 
 </div>
 
